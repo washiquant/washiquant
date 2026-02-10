@@ -7,7 +7,7 @@ Sou um entusiasta do mercado financeiro em transição para áreas quantitativas
 ---
 
 ### 🛠️ No que estou focado agora:
-- **Certificações:** Preparando para o **PQO Operações** (B3).
+- **Certificações:** Preparando para o **PQO Operações** (B3) & **PCAP** (PYTHON)
 - **Linguagens:** Python (Pandas, NumPy, Matplotlib) e SQL.
 - **Trading:** Desenvolvimento de estratégias sistemáticas com foco em Valor Esperado (Ex: Setups com 54% de acerto e Payoff 1.5).
 
