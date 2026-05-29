@@ -1,6 +1,6 @@
 # Olá, eu sou Washington Willian! 👋
 
-Sou desenvolvedor focado na intersecção entre **Tecnologia e Mercado Financeiro**. Concilio meus estudos em Análise e Desenvolvimento de Sistemas (ADS) com a prática de Day Trading, aplicando programação para automatizar análises e construir ferramentas de *quantitative trading*.
+Sou desenvolvedor focado na intersecção entre **Tecnologia e Mercado Financeiro**. Concilio meus estudos em Análise e Desenvolvimento de Sistemas (ADS) com os conceitos matemáticos do Mercado Financeiro, aplicando programação para automatizar análises e construir ferramentas de *quantitative trading*.
 
 ### 🚀 O que estou construindo:
 - **Quant Trading:** Desenvolvimento de algoritmos para backtesting e análise estatística de ativos.
