@@ -1,26 +1,33 @@
-# Olá, eu sou o Washington! 👋
+# Olá, eu sou Washington William! 👋
 
-### 🚀 Aspirante a Trader Quant | Especialista em Automação de Middle Office
+Sou desenvolvedor focado na intersecção entre **Tecnologia e Mercado Financeiro**. Concilio meus estudos em Análise e Desenvolvimento de Sistemas (ADS) com a prática de Day Trading, aplicando programação para automatizar análises e construir ferramentas de *quantitative trading*.
 
-Sou um entusiasta do mercado financeiro em transição para áreas quantitativas e operacionais. Atualmente, foco meus estudos na união entre análise estatística, programação em Python e conformidade bancária.
+### 🚀 O que estou construindo:
+- **Quant Trading:** Desenvolvimento de algoritmos para backtesting e análise estatística de ativos.
+- **Automação:** Scripts focados em eficiência operacional e manipulação de dados financeiros.
+- **Estudos:** Resolução de desafios de lógica, estruturas de dados e algoritmos para fortalecer minha base técnica.
+
+### 🛠 Tech Stack & Ferramentas:
+
+**Python (Análise de Dados & Automação):**
+*   **Bibliotecas:** Pandas, NumPy, Matplotlib, YFinance.
+*   **Foco:** Manipulação de séries temporais, backtesting e automação.
+
+**Java (Alta Performance & Robustez):**
+*   **Bibliotecas:** Tablesaw (análise de dados), JUnit (testes automatizados).
+*   **Foco:** Sistemas de baixa latência e aplicações financeiras robustas.
+
+**Ferramentas:**
+*   **Ambientes:** PyCharm, IntelliJ IDEA.
+*   **Versionamento:** Git, GitHub.
+*   **Gerenciamento:** Maven/Gradle (para Java).
+
+### 📈 Minha Mentalidade:
+Tudo é prática, do mais alto nivel de perfomance até a mais humilde e pequena perfomance.
+A excelência nada mais é que um amontoado de comportamentos que isolados nada tem de extraordinário.
+ou seja, tudo pode ser alcançado.
 
 ---
-
-### 🛠️ No que estou focado agora:
-- **Certificações:** Preparando para o **PQO Operações** (B3) & **PCAP** (PYTHON)
-- **Linguagens:** Python (Pandas, NumPy, Matplotlib) e SQL.
-- **Trading:** Desenvolvimento de estratégias sistemáticas com foco em Valor Esperado (Ex: Setups com 54% de acerto e Payoff 1.5).
-
-### 📈 Projetos e Estudos em Foco:
-
-- **Estratégia Quantitativa (Golden Cross):** Script em Python com integração de banco de dados SQLite para backtesting de cruzamento de médias móveis.
-- **Análise Estatística de Performance:** Calculadora de Valor Esperado e Probabilidade (Win Rate vs Payoff) para validação de setups sistemáticos.
-- **Simulação de Monte Carlo:** Algoritmo para testar a robustez de portfólios e o risco de ruína em longas séries de trades.
-- **Automação de Middle Office:** Scripts para conciliação automática de boletas e auditoria de fluxo operacional.
-- **Laboratório PQO Operações:** Repositório de lógica aplicada às regras da B3, transformando normas de liquidação e custódia em fluxogramas de código.
----
-
-### 📫 Contato:
-- **LinkedIn:** (https://www.linkedin.com/in/washington-willian-roncador-moreira-04a0662b9/)
-
-*"No mercado, a estatística é o mapa e o código é o veículo."*
+📫 **Como me encontrar:**
+- https://www.linkedin.com/in/washington-willian-roncador-moreira-04a0662b9
+- *Sempre aberto a colaborações em projetos de Data Science, Engenharia Financeira ou desenvolvimento de sistemas quantitativos.*
