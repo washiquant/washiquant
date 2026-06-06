@@ -1,8 +1,8 @@
-# 👨🏾‍💻 Washington William
+# 👨🏾‍💻 Washington Willian
 
 **`Desenvolvedor & Cientista de Dados`**
 
-Me chamo Washington William, tenho 22 anos, sou residente de Guarulhos/SP e graduando em Análise e Desenvolvimento de Sistemas (ADS) na Universidade São Judas.
+Olá!! Me chamo Washington Willian, tenho 22 anos, moro em Guarulhos/SP e atualmente estou me graduando em Análise e Desenvolvimento de Sistemas (ADS) na Universidade São Judas.
 
 Meu foco atual é o desenvolvimento na área de Ciência de Dados, com o objetivo de transformar dados em decisões estratégicas e dinâmicas. Além disso, foco também em automações inteligentes (LLMs).
 
