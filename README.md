@@ -1,8 +1,8 @@
-# 👨🏾‍💻 Washington Willian
+# 👨🏾‍💻 Washington William
 
 **`Desenvolvedor & Cientista de Dados`**
 
-Olá!! Me chamo Washington Willian, tenho 22 anos, moro em Guarulhos/SP e atualmente estou me graduando em Análise e Desenvolvimento de Sistemas (ADS) na Universidade São Judas.
+Me chamo Washington William, tenho 22 anos, sou residente de Guarulhos/SP e graduando em Análise e Desenvolvimento de Sistemas (ADS) na Universidade São Judas.
 
 Meu foco atual é o desenvolvimento na área de Ciência de Dados, com o objetivo de transformar dados em decisões estratégicas e dinâmicas. Além disso, foco também em automações inteligentes (LLMs).
 
@@ -78,12 +78,15 @@ Aqui ficam os registros da minha jornada de estudos e aprimoramento técnico:
 
 <br/>
 <br/>
+
+
 ### 📈 O que estou dominando agora
 * 🐍 **Python** para análise de dados e automação (Pandas, NumPy).
 * 🤖 **LLMs & IA**: Estudando integração de modelos e automações inteligentes.
 * 📊 **Análise Financeira**: Aplicando Python para análise de dados de mercado.
 * 🎓 **Ciência de Dados**: Focado em transformar dados brutos em decisões estratégicas.
 ### 📊 Estatísticas
+
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=washiquant&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="GitHub Stats" height="200" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=washiquant&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" alt="GitHub Top Langs" height="200" />
