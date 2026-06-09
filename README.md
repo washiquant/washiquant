@@ -4,7 +4,9 @@
 
 Me chamo Washington William, tenho 22 anos, sou residente de Guarulhos/SP e graduando em Análise e Desenvolvimento de Sistemas (ADS) na Universidade São Judas.
 
-Meu foco atual é o desenvolvimento na área de Ciência de Dados, com o objetivo de transformar dados em decisões estratégicas e dinâmicas. Além disso, foco também em automações inteligentes (LLMs).
+Meu foco atual é o desenvolvimento **Back-End** focado em alta performance, automações inteligentes (LLMs) e integração de sistemas que lidam com grandes volumes de dados.
+
+Utilizo minha base em Ciência de Dados para construir APIs robustas e soluções eficientes voltadas para o mercado financeiro e automação de processos.
 
 Minha estrutura de estudos é sólida e prática, fundamentada em:
 
