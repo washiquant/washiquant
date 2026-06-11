@@ -14,7 +14,7 @@ Minha estrutura de estudos é sólida e prática, fundamentada em:
 
 * **Faculdade**: Aprofundamento acadêmico e conceitual.
 
-* **Projetos Próprios**: Aplicação real do que aprendo.
+* **Projetos Próprios**: Aplicação dos meus conhecimentos técnicos em problemas reais.
 
 * **Exercícios de Sintaxe**: Prática constante (ex: HackerRank).
 
