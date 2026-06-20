@@ -6,7 +6,7 @@ Me chamo Washington Willian, tenho 22 anos, sou residente de Guarulhos/SP e grad
 
 Meu foco atual é o desenvolvimento **Back-End** focado em alta performance, automações inteligentes (LLMs) e integração de sistemas que lidam com grandes volumes de dados.
 
-Utilizo minha base em Ciência de Dados para construir APIs robustas e soluções eficientes voltadas para o mercado financeiro e automação de processos.
+Utilizo minha base em Python para construir APIs robustas e soluções eficientes voltadas para o mercado financeiro e automação de processos.
 
 Minha estrutura de estudos é sólida e prática, fundamentada em:
 
