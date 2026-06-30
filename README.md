@@ -34,7 +34,7 @@ Minha estrutura de estudos é sólida e prática, fundamentada em:
 Aqui ficam os registros da minha jornada de estudos e aprimoramento técnico:
 
 * 📖 **[🚚 Controle de Entregas](https://github.com/washiquant/projetos-python/tree/main/controle-entregas)**: Resolução de exercícios e estudos baseados no livro (minha base teórica).
-* 📖 **📈 Projeto Quantitativo](https://github.com/washiquant/projetos-python/tree/main/controle-entregas)**: Projeto do Desafio Itau Quant 2026.
+* 📖 **📈 Projeto Quantitativo](Vou upar ainda)**: Projeto do Desafio Itau Quant 2026.
 * 📖 **[Pense em Python](https://github.com/washiquant/Pense-em-Python)**: Resolução de exercícios e estudos baseados no livro (minha base teórica).
 * 🏆 **[HackerRank](https://github.com/washiquant/python-challenges)**: Coleção de desafios de lógica e sintaxe para aprimorar minha resolução de problemas.
 
@@ -92,7 +92,4 @@ Aqui ficam os registros da minha jornada de estudos e aprimoramento técnico:
 * 📈 Engenharia Financeira Quantitativa
 ### 📊 Estatísticas
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=washiquant&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" alt="GitHub Top Langs" height="200" />
-</p>
 
