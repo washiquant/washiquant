@@ -1,10 +1,10 @@
 # 👨🏾‍💻 Washington Willian
 
-**`Desenvolvedor Backend Python| ADS - São Judas Tadeu| Foco em Automação, API, SQL, Engenharia de Dados`**
+**`Desenvolvedor Backend Python | ADS - USJT | Foco em Automação, API, SQL, Engenharia de Dados`**
 
-Me chamo Washington Willian, tenho 22 anos, sou residente de Guarulhos/SP e graduando em Análise e Desenvolvimento de Sistemas (ADS) na Universidade São Judas.
+Me chamo Washington Willian, sou estudante de Análise e Desenvolvimento de Sistemas na Universidade São Judas.
 
-Utilizo minha base em Python para construir APIs robustas e soluções eficientes voltadas para o mercado financeiro e automação de processos.
+Utilizo Python para desenvolver aplicações, automações e APIs voltadas ao aprendizado prático e resolução de problemas reais.
 
 Minha estrutura de estudos é sólida e prática, fundamentada em:
 
@@ -33,6 +33,8 @@ Minha estrutura de estudos é sólida e prática, fundamentada em:
 ### 🛠 Laboratório de Aprendizado
 Aqui ficam os registros da minha jornada de estudos e aprimoramento técnico:
 
+* 📖 **[🚚 Controle de Entregas](https://github.com/washiquant/projetos-python/tree/main/controle-entregas)**: Resolução de exercícios e estudos baseados no livro (minha base teórica).
+* 📖 **📈 Projeto Quantitativo](https://github.com/washiquant/projetos-python/tree/main/controle-entregas)**: Projeto do Desafio Itau Quant 2026.
 * 📖 **[Pense em Python](https://github.com/washiquant/Pense-em-Python)**: Resolução de exercícios e estudos baseados no livro (minha base teórica).
 * 🏆 **[HackerRank](https://github.com/washiquant/python-challenges)**: Coleção de desafios de lógica e sintaxe para aprimorar minha resolução de problemas.
 
@@ -80,15 +82,17 @@ Aqui ficam os registros da minha jornada de estudos e aprimoramento técnico:
 <br/>
 
 
-### 📈 O que estou dominando agora
-* 🐍 **Python** para análise de dados e automação (Pandas, NumPy).
-* 🤖 **LLMs & IA**: Estudando integração de modelos e automações inteligentes.
-* 📊 **Análise Financeira**: Aplicando Python para análise de dados de mercado.
-* 🎓 **Ciência de Dados**: Focado em transformar dados brutos em decisões estratégicas.
+### 📈 O que estou estudando atualmente
+
+* 🐍 Python para Backend e Automação
+* 🗄️ SQL e modelagem de dados
+* 🌐 APIs REST
+* 📊 Análise de Dados com Pandas
+* 🤖 Integração com LLMs e IA
+* 📈 Engenharia Financeira Quantitativa
 ### 📊 Estatísticas
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=washiquant&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="GitHub Stats" height="200" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=washiquant&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" alt="GitHub Top Langs" height="200" />
 </p>
 
