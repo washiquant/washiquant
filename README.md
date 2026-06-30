@@ -1,20 +1,22 @@
 # 👨🏾‍💻 Washington Willian
 
-**`Desenvolvedor Backend Python | ADS - USJT | Foco em Automação, API, SQL, Engenharia de Dados`**
+**Desenvolvedor Backend Python | ADS - USJT | Foco em Automação, APIs, SQL e Engenharia de Dados**
 
-Me chamo Washington Willian, sou estudante de Análise e Desenvolvimento de Sistemas na Universidade São Judas.
+📍 Guarulhos/SP | Universidade São Judas Tadeu
 
-Utilizo Python para desenvolver aplicações, automações e APIs voltadas ao aprendizado prático e resolução de problemas reais.
+Me chamo Washington Willian e sou estudante de Análise e Desenvolvimento de Sistemas na Universidade São Judas.
 
-Minha estrutura de estudos é sólida e prática, fundamentada em:
+Atualmente busco oportunidades de estágio e desenvolvimento profissional nas áreas de Backend Python, Engenharia de Dados e Automação.
 
-* **Livros**: Minha base principal de conhecimento técnico.
+Utilizo Python para desenvolver aplicações, automações e APIs voltadas ao aprendizado prático e à resolução de problemas reais.
 
-* **Faculdade**: Aprofundamento acadêmico e conceitual.
+Minha estrutura de aprendizado é baseada em:
 
-* **Projetos Próprios**: Aplicação dos meus conhecimentos técnicos em problemas reais.
+* **Livros**: principal fonte de conhecimento técnico e fundamentos.
+* **Faculdade**: aprofundamento acadêmico e conceitual.
+* **Projetos Próprios**: aplicação prática dos conhecimentos adquiridos.
+* **Resolução de Problemas e Algoritmos**: prática contínua através de plataformas como HackerRank.
 
-* **Exercícios de Sintaxe**: Prática constante (ex: HackerRank).
 
 
 
@@ -33,10 +35,10 @@ Minha estrutura de estudos é sólida e prática, fundamentada em:
 ### 🛠 Laboratório de Aprendizado
 Aqui ficam os registros da minha jornada de estudos e aprimoramento técnico:
 
-* 📖 **[🚚 Controle de Entregas](https://github.com/washiquant/projetos-python/tree/main/controle-entregas)**: Resolução de exercícios e estudos baseados no livro (minha base teórica).
-* 📖 **📈 Projeto Quantitativo](Vou upar ainda)**: Projeto do Desafio Itau Quant 2026.
+* 🚚 **[Controle de Entregas](https://github.com/washiquant/projetos-python/tree/main/controle-entregas)**: Aplicação desenvolvida para controle de entregas, faturamento e estatísticas operacionais utilizando Python, SQLite e Flet.
+* 📈 **Projeto Quantitativo](Vou upar ainda)**: Projeto voltado para análise quantitativa e backtesting de estratégias financeiras utilizando Python.
 * 📖 **[Pense em Python](https://github.com/washiquant/Pense-em-Python)**: Resolução de exercícios e estudos baseados no livro (minha base teórica).
-* 🏆 **[HackerRank](https://github.com/washiquant/python-challenges)**: Coleção de desafios de lógica e sintaxe para aprimorar minha resolução de problemas.
+* 🏆 **[HackerRank](https://github.com/washiquant/python-challenges)**: Resolução de problemas algorítmicos e desafios de lógica para aprimorar raciocínio computacional e domínio da linguagem Python.
 
 
 
@@ -90,6 +92,5 @@ Aqui ficam os registros da minha jornada de estudos e aprimoramento técnico:
 * 📊 Análise de Dados com Pandas
 * 🤖 Integração com LLMs e IA
 * 📈 Engenharia Financeira Quantitativa
-### 📊 Estatísticas
 
 
