@@ -8,7 +8,7 @@ Me chamo Washington Willian e sou estudante de Análise e Desenvolvimento de Sis
 
 Atualmente busco oportunidades de estágio e desenvolvimento profissional nas áreas de Backend Python, Engenharia de Dados e Automação.
 
-Utilizo Python para desenvolver aplicações, automações e APIs voltadas ao aprendizado prático e à resolução de problemas reais.
+Utilizo Python para desenvolver aplicações, automações e APIs, transformando conceitos estudados em projetos práticos voltados à resolução de problemas reais.
 
 Minha estrutura de aprendizado é baseada em:
 
@@ -36,7 +36,7 @@ Minha estrutura de aprendizado é baseada em:
 Aqui ficam os registros da minha jornada de estudos e aprimoramento técnico:
 
 * 🚚 **[Controle de Entregas](https://github.com/washiquant/projetos-python/tree/main/controle-entregas)**: Aplicação desenvolvida para controle de entregas, faturamento e estatísticas operacionais utilizando Python, SQLite e Flet.
-* 📈 **Projeto Quantitativo](Vou upar ainda)**: Projeto voltado para análise quantitativa e backtesting de estratégias financeiras utilizando Python.
+* 📈 **Projeto Quantitativo (em desenvolvimento)**: Projeto voltado para análise quantitativa e backtesting de estratégias financeiras utilizando Python.
 * 📖 **[Pense em Python](https://github.com/washiquant/Pense-em-Python)**: Resolução de exercícios e estudos baseados no livro (minha base teórica).
 * 🏆 **[HackerRank](https://github.com/washiquant/python-challenges)**: Resolução de problemas algorítmicos e desafios de lógica para aprimorar raciocínio computacional e domínio da linguagem Python.
 
@@ -93,4 +93,11 @@ Aqui ficam os registros da minha jornada de estudos e aprimoramento técnico:
 * 🤖 Integração com LLMs e IA
 * 📈 Engenharia Financeira Quantitativa
 
+### 🎯 Próximos Objetivos
+
+* Desenvolver APIs utilizando FastAPI
+* Aprimorar testes automatizados com Pytest
+* Aprender Docker para empacotamento de aplicações
+* Evoluir projetos financeiros quantitativos
+* Aprofundar conhecimentos em Engenharia de Dados
 
