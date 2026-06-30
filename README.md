@@ -1,10 +1,8 @@
 # 👨🏾‍💻 Washington Willian
 
-**`Desenvolvedor & Cientista de Dados`**
+**`Desenvolvedor Backend Python| ADS - São Judas Tadeu| Foco em Automação, API, SQL, Engenharia de Dados`**
 
 Me chamo Washington Willian, tenho 22 anos, sou residente de Guarulhos/SP e graduando em Análise e Desenvolvimento de Sistemas (ADS) na Universidade São Judas.
-
-Meu foco atual é o desenvolvimento **Back-End** focado em alta performance, automações inteligentes (LLMs) e integração de sistemas que lidam com grandes volumes de dados.
 
 Utilizo minha base em Python para construir APIs robustas e soluções eficientes voltadas para o mercado financeiro e automação de processos.
 
