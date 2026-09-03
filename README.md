@@ -36,7 +36,6 @@ Minha estrutura de aprendizado é baseada em:
 Aqui ficam os registros da minha jornada de estudos e aprimoramento técnico:
 
 * 🚚 **[Controle de Entregas](https://github.com/washiquant/projetos-python/tree/main/controle-entregas)**: Aplicação desenvolvida para controle de entregas, faturamento e estatísticas operacionais utilizando Python, SQLite e Flet.
-* 📈 **Projeto Quantitativo (em desenvolvimento)**: Projeto voltado para análise quantitativa e backtesting de estratégias financeiras utilizando Python.
 * 📖 **[Pense em Python](https://github.com/washiquant/Pense-em-Python)**: Resolução de exercícios e estudos baseados no livro (minha base teórica).
 * 🏆 **[HackerRank](https://github.com/washiquant/python-challenges)**: Resolução de problemas algorítmicos e desafios de lógica para aprimorar raciocínio computacional e domínio da linguagem Python.
 
