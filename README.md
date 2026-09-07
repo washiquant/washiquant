@@ -6,7 +6,7 @@
 
 Me chamo Washington Willian e sou estudante de Análise e Desenvolvimento de Sistemas na Universidade São Judas.
 
-Curso Fundamentos de IA Generativa no Senai & Aplicações com Google Gravity 
+Curso Fundamentos de IA Generativa & Aplicações com Google Gravity no SENAI. 
 
 Atualmente busco oportunidades de estágio e desenvolvimento profissional nas áreas de Backend Python, Engenharia de Dados e Automação.
 
