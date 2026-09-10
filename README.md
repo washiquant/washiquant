@@ -1,6 +1,6 @@
 # 👨🏾‍💻 Washington Willian
 
-**Desenvolvedor Backend Python | ADS - USJT | Foco em Desenvolvimento Backend, APIs, SQL, Engenharia de Dados e Automação.**
+**Desenvolvedor Backend C# | ADS - USJT | Foco em Desenvolvimento Backend, APIs, SQL, Engenharia de Dados e Automação.**
 
 📍 Guarulhos/SP | Universidade São Judas Tadeu
 
