@@ -1,6 +1,6 @@
 # 👨🏾‍💻 Washington Willian Roncador Moreira
 
-### Desenvolvedor Backend em Formação | Python • C# .NET • SQL
+### Desenvolvedor Backend em Formação | Python | C# .NET | SQL
 
 📍 Guarulhos/SP, Brasil  
 🎓 Análise e Desenvolvimento de Sistemas — Universidade São Judas Tadeu
