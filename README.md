@@ -1,108 +1,152 @@
-# 👨🏾‍💻 Washington Willian
+# 👨🏾‍💻 Washington Willian Roncador Moreira
 
-**Desenvolvedor Backend | Python | C# .NET | SQL | ADS - USJT**
+### Desenvolvedor Backend em Formação | Python • C# .NET • SQL
 
-📍 Guarulhos/SP | Universidade São Judas Tadeu
-
-Me chamo Washington Willian e sou estudante de Análise e Desenvolvimento de Sistemas na Universidade São Judas.
-
-Formação complementar:
-
-• Fundamentos de IA Generativa e Aplicações com Google Gravity (SENAI)
-
-• Desenvolvimento Backend com C# e .NET (SENAI)
-
-Atualmente busco oportunidades de estágio em Desenvolvimento Backend, utilizando Python e C#, além de continuar aprofundando meus conhecimentos em bancos de dados, APIs, automação e desenvolvimento de software.
-
-Utilizo Python para desenvolver aplicações, automações e APIs, transformando conceitos estudados em projetos práticos voltados à resolução de problemas reais.
-
-Minha estrutura de aprendizado é baseada em:
-
-* **Livros**: principal fonte de conhecimento técnico e fundamentos.
-* **Faculdade**: aprofundamento acadêmico e conceitual.
-* **Projetos Próprios**: aplicação prática dos conhecimentos adquiridos.
-* **Resolução de Problemas e Algoritmos**: prática contínua através de plataformas como HackerRank.
-
-
-
-
-### 🔗 Conecte-se comigo
-<p align="left">
-  <!-- Link para seu LinkedIn -->
-  <a href="https://www.linkedin.com/in/washington-willian-roncador-moreira-04a0662b9/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <!-- Link para seu perfil no HackerRank -->
-  <a href="https://www.hackerrank.com/profile/washiwm1">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-  </a>
-</p>
-
-### 🛠 Laboratório de Aprendizado
-Aqui ficam os registros da minha jornada de estudos e aprimoramento técnico:
-
-* 🚚 **[Controle de Entregas](https://github.com/washiquant/projetos-python/tree/main/controle-entregas)**: Aplicação desenvolvida para controle de entregas, faturamento e estatísticas operacionais utilizando Python, SQLite e Flet.
-* 📖 **[Pense em Python](https://github.com/washiquant/Pense-em-Python)**: Resolução de exercícios e estudos baseados no livro (minha base teórica).
-* 🏆 **[HackerRank](https://github.com/washiquant/python-challenges)**: Resolução de problemas algorítmicos e desafios de lógica para aprimorar raciocínio computacional e domínio da linguagem Python.
-
-
+📍 Guarulhos/SP, Brasil  
+🎓 Análise e Desenvolvimento de Sistemas — Universidade São Judas Tadeu
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## Sobre Mim
 
-<img 
-    align="left" 
-    alt="SQL" 
-    title="SQL" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
+Sou estudante de Análise e Desenvolvimento de Sistemas com foco em Desenvolvimento Backend, APIs, Banco de Dados, Automação e Engenharia de Software.
 
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+Atualmente desenvolvo projetos utilizando Python e estou ampliando minha formação em Desenvolvimento Backend com C# e .NET através do SENAI.
 
-<br/>
-<br/>
+Tenho como objetivo construir uma base sólida em programação, arquitetura de software e resolução de problemas, transformando conhecimento teórico em projetos práticos e aplicações reais.
 
+Minha formação é construída através da combinação de:
 
-### 📈 O que estou estudando atualmente
+- 📚 Estudo de fundamentos através de livros técnicos
+- 🎓 Formação acadêmica em ADS
+- 🏗️ Desenvolvimento de projetos próprios
+- 🧩 Resolução de desafios algorítmicos
+- 🚀 Formação complementar em tecnologia e IA
 
-* 🐍 Python para Backend e Automação
-* 🗄️ SQL e modelagem de dados
-* 🌐 APIs REST
-* 📊 Análise de Dados com Pandas
-* 🤖 Integração com LLMs e IA
-* 📈 Engenharia Financeira Quantitativa
+---
 
-### 🎯 Próximos Objetivos
+## Formação Complementar
 
-* Desenvolver APIs utilizando FastAPI
-* Aprimorar testes automatizados com Pytest
-* Aprender Docker para empacotamento de aplicações
-* Evoluir projetos financeiros quantitativos
-* Aprofundar conhecimentos em Engenharia de Dados
+### SENAI
 
+- 🤖 Fundamentos de IA Generativa
+- 🤖 Aplicações com IA utilizando Google Gravity
+- ⚙️ Desenvolvimento Backend com C# e .NET
+
+---
+
+## Tecnologias
+
+### Linguagens
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C Sharp](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Ferramentas
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## Projetos em Destaque
+
+### 🚚 Controle de Entregas
+
+Sistema para controle de entregas, faturamento e estatísticas operacionais.
+
+**Tecnologias:**
+- Python
+- SQLite
+- Flet
+
+🔗 https://github.com/washiquant/projetos-python/tree/main/controle-entregas
+
+---
+
+### 🏆 HackerRank Challenges
+
+Repositório dedicado à resolução de problemas algorítmicos e desenvolvimento do raciocínio lógico.
+
+**Tecnologias:**
+- Python
+
+🔗 https://github.com/washiquant/python-challenges
+
+---
+
+### 📖 Pense em Python
+
+Exercícios e estudos desenvolvidos a partir do livro *Pense em Python*.
+
+**Objetivo:**
+Fortalecer fundamentos de programação e pensamento computacional.
+
+🔗 https://github.com/washiquant/Pense-em-Python
+
+---
+
+### ⚙️ C# Fundamentals (SENAI)
+
+Repositório dedicado aos exercícios, desafios e projetos desenvolvidos durante a formação em Desenvolvimento Backend com C# e .NET.
+
+**Conteúdos:**
+- Variáveis e Tipos
+- Operadores
+- Estruturas Condicionais
+- Estruturas de Repetição
+- Métodos
+- Programação Orientada a Objetos
+
+🚧 Em desenvolvimento
+
+---
+
+## O Que Estou Estudando Atualmente
+
+- Desenvolvimento Backend com Python
+- Desenvolvimento Backend com C# e .NET
+- APIs REST
+- SQL e Modelagem de Dados
+- Estruturas de Dados e Algoritmos
+- Inteligência Artificial Generativa
+- Git e Controle de Versão
+
+---
+
+## Objetivos para 2026
+
+- Desenvolver APIs completas com FastAPI
+- Construir aplicações Backend utilizando ASP.NET
+- Aprimorar conhecimentos em SQL e Banco de Dados
+- Aprender Docker e Conteinerização
+- Conquistar minha primeira oportunidade profissional em Desenvolvimento Backend
+- Construir um portfólio sólido de projetos
+
+---
+
+## Certificações
+
+- Python (HackerRank)
+- Fundamentos de IA Generativa (SENAI)
+- Aplicações com IA utilizando Google Gravity (SENAI)
+- Desenvolvimento Backend com C# e .NET (Em andamento)
+
+---
+
+## Conecte-se Comigo
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/washington-willian-roncador-moreira-04a0662b9/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://www.hackerrank.com/profile/washiwm1">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+> "Transformando estudo, disciplina e prática em soluções de software."
