@@ -127,10 +127,10 @@ Repositório dedicado aos exercícios, desafios e projetos desenvolvidos durante
 ---
 
 ## Certificações
-
+- Logica de Programação - 160HR's - UJST
 - Python (HackerRank)
-- Fundamentos de IA Generativa (SENAI)
-- Aplicações com IA utilizando Google Gravity (SENAI)
+- Fundamentos de IA Generativa (Em Andamento)
+- Aplicações com IA utilizando Google Gravity (Em andamento)
 - Desenvolvimento Backend com C# e .NET (Em andamento)
 
 ---
