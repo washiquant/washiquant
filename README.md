@@ -1,14 +1,18 @@
 # 👨🏾‍💻 Washington Willian
 
-**Desenvolvedor Backend Python | C# .NET |  ADS - USJT | Foco em Desenvolvimento Backend, APIs, SQL, Engenharia de Dados e Automação.**
+**Desenvolvedor Backend | Python | C# .NET | SQL | ADS - USJT**
 
 📍 Guarulhos/SP | Universidade São Judas Tadeu
 
 Me chamo Washington Willian e sou estudante de Análise e Desenvolvimento de Sistemas na Universidade São Judas.
 
-Curso Fundamentos de IA Generativa & Aplicações com Google Gravity no SENAI. 
+Formação complementar:
 
-Atualmente busco oportunidades de estágio e desenvolvimento profissional nas áreas de Backend Python, Engenharia de Dados e Automação.
+• Fundamentos de IA Generativa e Aplicações com Google Gravity (SENAI)
+
+• Desenvolvimento Backend com C# e .NET (SENAI)
+
+Atualmente busco oportunidades de estágio em Desenvolvimento Backend, utilizando Python e C#, além de continuar aprofundando meus conhecimentos em bancos de dados, APIs, automação e desenvolvimento de software.
 
 Utilizo Python para desenvolver aplicações, automações e APIs, transformando conceitos estudados em projetos práticos voltados à resolução de problemas reais.
 
