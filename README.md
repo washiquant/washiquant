@@ -96,9 +96,9 @@ Exercícios e estudos desenvolvidos a partir do livro *Pense em Python* de Allen
 
 Repositório dedicado aos exercícios, desafios e projetos desenvolvidos durante a formação em Desenvolvimento Backend com C# e .NET.
 
-**Conteúdos:** POO, Variáveis e Tipos, Métodos, Estruturas Condicionais e de Repetição.
+**Conteúdos:** POO, Variáveis e Tipos, Métodos, Estruturas Condicionais e de Repetição .
 
-🚧 *Em desenvolvimento*
+🚧 *Em desenvolvimento*[
 
 ---
 
