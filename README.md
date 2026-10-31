@@ -5,7 +5,7 @@
 📍 Guarulhos/SP, Brasil  
 🎓 Análise e Desenvolvimento de Sistemas — Universidade São Judas Tadeu
 
----
+--
 
 ## Sobre Mim
 
