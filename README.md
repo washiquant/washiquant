@@ -1,6 +1,7 @@
 # Washington Willian R. Moreira
 
-**Desenvolvedor Back-End | Python • C# (.NET) • SQL**  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=58A6FF&vCenter=true&width=680&lines=Desenvolvedor+Back-End+%7C+Python+%E2%80%A2+C%23+(.NET)+%E2%80%A2+SQL;Arquitetura+em+Camadas+%E2%80%A2+APIs+RESTful+%E2%80%A2+Testes+(Pytest)+%E2%80%A2+Docker)](https://git.io/typing-svg)
+
 📍 Guarulhos, SP (Disponível para atuação em São Paulo/SP, Híbrido ou Remoto)  
 🎓 **Análise e Desenvolvimento de Sistemas** — Universidade São Judas Tadeu *(2026 – 2028)*  
 ⚙️ **Formação Técnica Back-End C# / .NET** — SENAI São Caetano do Sul
@@ -59,3 +60,12 @@ Trilha prática de engenharia de software, estruturas de dados e especializaçã
   - 🏆 **Fundamentos de IA Generativa (Google Cloud)** — *SENAI*
   - 📚 **Python para Análise de Dados & Data Science** — *Data Science Academy (DSA)*
   - 🎯 *Em preparação:* **PCAP / PCEP** *(Python Institute)*
+
+---
+
+## 📊 Atividade & Métricas no GitHub
+
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=washiquant&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true" alt="GitHub Stats de washiquant" />
+  <img height="165em" src="https://streak-stats.demolab.com?user=washiquant&theme=tokyonight&hide_border=true&background=0D1117&locale=pt_BR" alt="GitHub Streak de washiquant" />
+</div>
