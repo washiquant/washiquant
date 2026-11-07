@@ -16,7 +16,7 @@ Desenvolvedor Back-End com foco na construção de aplicações em camadas, auto
 
 ## 🛠️ Tecnologias & Ferramentas
 
-- **Back-End & APIs:** `Python` • `C#` • `.NET` • `FastAPI` • `Pydantic` • `RESTful APIs` • `POO`
+- **Back-End & APIs:** `C#` • `Python` • `.NET` • `FastAPI` • `Pydantic` • `RESTful APIs` • `POO`
 - **Banco de Dados & ORM:** `SQL` • `SQLAlchemy` • `SQLite` • `Modelagem Relacional`
 - **Qualidade, DevOps & Ferramentas:** `Pytest (Mocks / In-Memory DB)` • `Docker` • `Git & GitHub` • `Linux` • `Google Cloud (GenAI)`
 
