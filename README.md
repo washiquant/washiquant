@@ -38,7 +38,7 @@ Pipeline automatizado de coleta, filtragem e notificação em tempo real de opor
 
 ---
 
-##🧪 Repositórios de Estudo & Laboratórios Técnicos
+## 🧪 Repositórios de Estudo & Laboratórios Técnicos
 
 Trilha prática de engenharia de software, estruturas de dados e especialização técnica:
 
