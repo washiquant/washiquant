@@ -51,7 +51,7 @@ Trilha prática de engenharia de software, estruturas de dados e especializaçã
 
 ---
 
-## 🎓  Formação & Certificações
+## 🎓 Formação & Certificações
 
 - **Tecnólogo em Análise e Desenvolvimento de Sistemas (ADS)** — *Universidade São Judas Tadeu (Conclusão: Dez/2028)*
 - **Qualificação Profissional: Desenvolvedor Back-End C# / .NET (160h)** — *SENAI São Caetano do Sul*
