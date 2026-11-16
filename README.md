@@ -4,7 +4,7 @@
 
 📍 Guarulhos, SP (Disponível para atuação em São Paulo/SP, Híbrido ou Remoto)  
 🎓 **Análise e Desenvolvimento de Sistemas** — Universidade São Judas Tadeu *(2026 – 2028)*  
-⚙️ **Formação Técnica Back-End C# / .NET** — SENAI São Caetano do Sul
+⚙️ **Formação Técnica  Back-End C# / .NET** — SENAI São Caetano do Sul
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/washington-willian-roncador-moreira-04a0662b9/)
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio_Web-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://washiquant.github.io/)
