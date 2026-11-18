@@ -22,7 +22,7 @@ Desenvolvedor Back-End com foco na construção de aplicações em camadas, auto
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🚀 Projetos em Destaques
 
 ### 1. 📦 [Controle de Entregas & Painel Analítico](https://github.com/washiquant/projetos-python/tree/main/controle-entregas)
 Sistema de gestão financeira e logística para entregadores, projetado com separação de responsabilidades (*UI / Services / Data Access*) e ambiente isolado.
