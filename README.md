@@ -10,7 +10,7 @@
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio_Web-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://washiquant.github.io/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL_AQUI@gmail.com)
 
-Desenvolvedor Back-End com foco na construção de aplicações em camadas, automação de processos, APIs RESTful e persistência relacional. Experiência prática no desenvolvimento de sistemas testáveis e containerizados utilizando **Python (FastAPI, SQLAlchemy, Pytest)** e **C# (.NET)**, aplicando orientação a objetos, testes automatizados e integração de serviços externos na resolução de problemas reais.
+Desenvolvedor Back-End com foco na construção de aplicações em camadas, automação de processos, APIs RESTful e persistência relacional. Experiência prática no desenvolvimento de sistemas testáveis e containerizados utilizando **Python (FastAPI, SQLAlchemy, Pytest)** e **C# (.NET)**, aplicando orientação a objetos, testes automatizados e integração de serviços externos na resolução de problemas reais!
 
 ---
 
